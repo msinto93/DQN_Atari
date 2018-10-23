@@ -1,6 +1,8 @@
 # DQN_Atari
 A Tensorflow implementation of a Deep Q Network (DQN) for playing Atari games.
 
+![](https://image.ibb.co/n6hqtA/1-M8-RWev-Lxhus56-RABFEGYYQ.jpg)
+
 Trained on [OpenAI Gym Atari environments](https://gym.openai.com/envs/#atari).
 
 Based on [Human-Level Control through Deep Reinforcement Learning](https://storage.googleapis.com/deepmind-media/dqn/DQNNaturePaper.pdf). This implementation includes the improvements to the [original DQN](https://www.cs.toronto.edu/~vmnih/docs/dqn.pdf) detailed in the above paper, namely:
