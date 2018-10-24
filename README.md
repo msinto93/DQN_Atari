@@ -24,7 +24,7 @@ Note: Versions stated are the versions I used, however this will still likely wo
 - [inotify-tools](https://github.com/rvoicilas/inotify-tools/wiki) 3.14
 
 ## Usage
-The default environment is 'BreakoutDeterministic-v4'. To use a different environment simply pass the environment in via the `-env` argument when running the following files.
+The default environment is 'BreakoutDeterministic-v4'. To use a different environment simply pass the environment in via the `--env` argument when running the following files.
 ```
   $ python train.py
 ```
