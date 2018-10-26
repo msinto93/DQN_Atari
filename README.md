@@ -1,4 +1,4 @@
-# DQN_Atari
+# Deep Q Network (DQN)
 A Tensorflow implementation of a **Deep Q Network (DQN)** for playing Atari games.
 
 ![](https://image.ibb.co/n6hqtA/1-M8-RWev-Lxhus56-RABFEGYYQ.jpg)
